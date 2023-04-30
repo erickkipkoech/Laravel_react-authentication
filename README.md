@@ -1,0 +1,1 @@
+# This is an application that uses react as the frontend and laravel restful apis fro the backend.
